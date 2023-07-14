@@ -1,0 +1,12 @@
+/* main screen, area calculator */
+"area.calc" = "penghitung area";
+
+/* main screen, length */
+"length" = "panjang";
+
+/* main screen, result */
+"result" = "hasil";
+
+/* main screen, width */
+"width" = "lebar";
+

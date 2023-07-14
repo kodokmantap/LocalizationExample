@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by Yulibar Husni on 11/07/23.
+  
+*/
+
+// main screen, area calculator
+"area.calc" = "area calculator";
+
+// main screen, length
+"length" = "length";
+
+// main screen, width
+"width" = "width";
+
+// main screen, result
+"result" = "result";

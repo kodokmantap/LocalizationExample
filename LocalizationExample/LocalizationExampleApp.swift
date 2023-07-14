@@ -11,7 +11,7 @@ import SwiftUI
 struct LocalizationExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CalculationView(areaCalculationVM: AreaCalculationVM())
         }
     }
 }
