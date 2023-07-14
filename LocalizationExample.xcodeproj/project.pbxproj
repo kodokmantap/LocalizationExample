@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		B85E3A392A5EC3AF007EDFAE /* AreaCalculationVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = B85E3A382A5EC3AF007EDFAE /* AreaCalculationVM.swift */; };
 		B85E3A3B2A5F8DE6007EDFAE /* LocalizationExample.docc in Sources */ = {isa = PBXBuildFile; fileRef = B85E3A3A2A5F8DE6007EDFAE /* LocalizationExample.docc */; };
-		B85E3A3C2A60207C007EDFAE /* ContentView_Previews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF8D322A5D42BC0001B2E0 /* ContentView_Previews.swift */; };
+		B85E3A3C2A60207C007EDFAE /* Previews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF8D322A5D42BC0001B2E0 /* Previews.swift */; };
 		B89FA4042A5D498D00747F18 /* AppString.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89FA4032A5D498D00747F18 /* AppString.swift */; };
 		B89FA40F2A5D515B00747F18 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B89FA40D2A5D515B00747F18 /* Localizable.strings */; };
 		B8AF8D092A5D06590001B2E0 /* LocalizationExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF8D082A5D06590001B2E0 /* LocalizationExampleApp.swift */; };
@@ -56,7 +56,7 @@
 		B8AF8D1F2A5D065B0001B2E0 /* LocalizationExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalizationExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8AF8D232A5D065B0001B2E0 /* LocalizationExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationExampleUITests.swift; sourceTree = "<group>"; };
 		B8AF8D252A5D065B0001B2E0 /* LocalizationExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		B8AF8D322A5D42BC0001B2E0 /* ContentView_Previews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView_Previews.swift; sourceTree = "<group>"; };
+		B8AF8D322A5D42BC0001B2E0 /* Previews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Previews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +108,7 @@
 		B8AF8D072A5D06590001B2E0 /* LocalizationExample */ = {
 			isa = PBXGroup;
 			children = (
-				B8AF8D322A5D42BC0001B2E0 /* ContentView_Previews.swift */,
+				B8AF8D322A5D42BC0001B2E0 /* Previews.swift */,
 				B8AF8D082A5D06590001B2E0 /* LocalizationExampleApp.swift */,
 				B8AF8D0A2A5D06590001B2E0 /* CalculationView.swift */,
 				B85E3A382A5EC3AF007EDFAE /* AreaCalculationVM.swift */,
@@ -284,7 +284,7 @@
 				B89FA4042A5D498D00747F18 /* AppString.swift in Sources */,
 				B85E3A3B2A5F8DE6007EDFAE /* LocalizationExample.docc in Sources */,
 				B8AF8D092A5D06590001B2E0 /* LocalizationExampleApp.swift in Sources */,
-				B85E3A3C2A60207C007EDFAE /* ContentView_Previews.swift in Sources */,
+				B85E3A3C2A60207C007EDFAE /* Previews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
